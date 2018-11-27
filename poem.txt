@@ -3,6 +3,7 @@ The Rainbow and the Unicorn and the Pony
 Today is Tuesday.
 I love Tuesday.
 Tomorrow is Wednesday.
+I dislike Wednesday.
 Purple
 Pink 
 Orange
